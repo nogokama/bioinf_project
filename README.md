@@ -47,7 +47,7 @@
 
 Работа была проделана локально: сначала с помощью BLASTP был сделан поиск по протеомам, затем была составлена тепловая карта. 
 
-[Ноутбук](https://colab.research.google.com/drive/1a2GypMQp4G139rNSBWdZDplyOnkbL7df)
+[Ноутбук](https://colab.research.google.com/drive/1GY2z_AQ_ZVgWzt9i_JXoiNjqKTaPfoTL)
 
 Метрикой качества найденных хитов был e-value. Для наглядности тепловая карта строилась по `-log10(e-value)`. Таким образом, чем светлее клетка -- тем лучше хит. 
 
